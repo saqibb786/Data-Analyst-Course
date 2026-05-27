@@ -1,5 +1,5 @@
 [submodule "mysql"]
-	path = mysql
+	path = MySQL Projects
 	url = https://github.com/saqibb786/MySql-Projects---DataAnalyst.git
 [submodule "excel"]
 	path = excel
