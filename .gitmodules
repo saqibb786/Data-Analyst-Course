@@ -2,14 +2,14 @@
 	path = MySQL Projects
 	url = https://github.com/saqibb786/MySql-Projects---DataAnalyst.git
 [submodule "excel"]
-	path = excel
+	path = Excel Projects
 	url = https://github.com/saqibb786/Excel-Projects---DataAnalyst.git
 [submodule "tableau"]
-	path = tableau
+	path = Tableau Projects
 	url = https://github.com/saqibb786/Tableau-Projects---DataAnalyst.git
 [submodule "power-bi"]
-	path = power-bi
+	path = Power BI Projects
 	url = https://github.com/saqibb786/PowerBi-Projects---DataAnalyst.git
 [submodule "python-web-scraping"]
-	path = python-web-scraping
+	path = Python Web Scraping Projects
 	url = https://github.com/saqibb786/PythonWebScraping-Projects---DataAnalyst.git
