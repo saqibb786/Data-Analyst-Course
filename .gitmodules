@@ -1,0 +1,15 @@
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/saqibb786/MySql-Projects---DataAnalyst.git
+[submodule "excel"]
+	path = excel
+	url = https://github.com/saqibb786/Excel-Projects---DataAnalyst.git
+[submodule "tableau"]
+	path = tableau
+	url = https://github.com/saqibb786/Tableau-Projects---DataAnalyst.git
+[submodule "power-bi"]
+	path = power-bi
+	url = https://github.com/saqibb786/PowerBi-Projects---DataAnalyst.git
+[submodule "python-web-scraping"]
+	path = python-web-scraping
+	url = https://github.com/saqibb786/PythonWebScraping-Projects---DataAnalyst.git
