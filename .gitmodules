@@ -13,3 +13,6 @@
 [submodule "python-web-scraping"]
 	path = Python Web Scraping Projects
 	url = https://github.com/saqibb786/PythonWebScraping-Projects---DataAnalyst.git
+[submodule "Python Pandas Projects"]
+	path = Python Pandas Projects
+	url = https://github.com/saqibb786/Python-Pandas---DataAnalysis.git
